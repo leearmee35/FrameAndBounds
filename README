@@ -1,0 +1,4 @@
+IMPORTANT!
+
+Please con't set constraint on the containerView and InnerView, because that's
+gonna make the view stick to that constraint as the name suggested
